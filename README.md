@@ -23,9 +23,10 @@ Listado de los temas fundamentales Angular visto en este proyecto:
 * Validaciones
 * Importación de módulos personalizados
 
+## Librerias
 
-
-
+* https://animate.style/
+* https://getbootstrap.com/docs/5.3
 
 ## Development server
 
