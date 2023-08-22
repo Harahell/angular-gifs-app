@@ -2,6 +2,31 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.4.
 
+## Aplicación
+
+Aplicación real de Angular, realizada con fines de aprendizaje en Udemy, en la  cual puedes realizar busquedas vía api rest al sitio https://giphy.com/. 
+Listado de los temas fundamentales Angular visto en este proyecto:
+
+* Modularización de la aplicación
+* Estructura de la aplicación de media a gran escala
+* Componentes
+* ViewChild
+* Servicios
+* Historial de búsquedas
+* Uso de Api Keys
+* LocalStorage
+* Peticiones HTTP
+* Animaciones mediante css
+* @Inputs
+* @Outputs
+* Custom Components
+* Validaciones
+* Importación de módulos personalizados
+
+
+
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
